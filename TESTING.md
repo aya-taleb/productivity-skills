@@ -146,3 +146,23 @@ rounds:
 - fix 2: the source check stays out of the reply; prefer a second file fact over a closer; don't assume a log item has finished; one date style.
 - fix 3: say who goes first and why; one line naming the field to fill for a thin file.
 open issues: a note can still lean on a file fact a little ("the Portland move planning" for a spring move). Line 1 sometimes holds two questions.
+
+## Polish round (Oct 24)
+
+Method: each fix was rerun in fresh, isolated `claude -p` runs (own HOME, own project folder,
+only the skill plus founder-context and humanize where the repo has them). The new version ran
+against the current version (the last commit) on the same eval case. A separate `claude -p`
+judge saw both outputs as A and B and scored them out of 50, once in each label order. A fix
+ships only if it wins or ties in both orders. Scores are new / current. Runs, judge packets
+and keys: `/home/claude/build/_work/polish/`.
+
+| skill | case | round | order A-new | order A-current | result |
+| --- | --- | --- | --- | --- | --- |
+| personal-crm | app-weekly-checkins | r1 | tie 47/47 | won 46/44 | shipped |
+
+What changed:
+- personal-crm 0.1.1: keep a file fact in its own words and its own time (a plan months away
+  is a plan, not work under way), no added stage or activity word, one question per line.
+  Rania's note went from "How's the Portland move looking for the spring?" (smoke run) and
+  "How is the ceramics studio going?" (current) to "Is the move to Portland still on for the
+  spring?".

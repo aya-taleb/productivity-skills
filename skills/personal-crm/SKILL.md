@@ -58,6 +58,11 @@ person file, the user's own words in this chat, or the fixed closers below.
    together", "deep in it"). Don't assume something from the log has finished: "How are the
    interviews going?" fits whether they are done or not. If the file has only how you met, use that: "How have things
    been since the founder dinner?"
+   Keep the fact in its own words and its own time. A plan months away is a plan, not work
+   under way: for "starting a master's next fall", write "Is the master's still on for next
+   fall?", not "How's the application prep going?". Add no step, stage or activity word
+   the file doesn't hold (planning, prep, training, packing, settling in). One question per
+   line.
 2. **Line 2 is a second file fact or a closer.** When the file has another fact (a "cares
    about" item, their news), prefer a short question about it: it makes the note warmer and
    more theirs. Otherwise use one of these closers, as written: "No need to reply." / "No
