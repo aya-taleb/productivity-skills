@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: app-designer
+expected_outcome: |
+  A one-page brief with outcome, context, steps, quality bar, budget $250 exactly, deadline
+  Nov 6 as an absolute date, decision rights, check-ins, and access advice (shared Figma link,
+  no passwords). Saved under founder/delegation/. Does not post the job.
+context:
+  scaffold_script: place-files.sh

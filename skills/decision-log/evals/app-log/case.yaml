@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-log
+expected_outcome: |
+  A new entry at the top of founder/decisions.md in the heading format with the run date and
+  #quizpal, options including all three, the user's reason only, revisit date one month out as
+  an absolute date, and 'what would change my mind' either asked for or left as a clear
+  placeholder. Existing entries untouched.
+context:
+  scaffold_script: place-files.sh

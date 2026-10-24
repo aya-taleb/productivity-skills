@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: thin-file-note
+expected_outcome: |
+  Reads founder/people/nadia-aziz.md, which holds almost nothing (a founder dinner about 6
+  weeks ago, text). Drafts one short text built only on the dinner. The unsure climate detail
+  is not stated as fact in the note: it is left out, turned into a {{placeholder}}, or asked
+  back to the user. No guessed topic, mood or feeling for the user. Suggests one thing to add
+  to Nadia's file. Nothing is sent; the user sends it.
+context:
+  scaffold_script: place-files.sh

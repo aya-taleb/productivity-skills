@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "log this decision: we're going with Stripe for payments",
+    "I decided to drop monday deliveries, write it down",
+    "what decisions are due for a review?",
+    "why did I pick the 50 percent deposit rule again?",
+    "we're moving quizpal to $4 a month, record why",
+    "let's revisit the pricing call from last month"
+  ],
+  "should_not_trigger": [
+    "help me decide what to eat for dinner",
+    "add 'decide on logo' to my tasks",
+    "summarize the meeting where we chose the price",
+    "do my weekly review",
+    "make a pros and cons list for moving to Portland",
+    "what's a good decision-making framework for startups?"
+  ]
+}

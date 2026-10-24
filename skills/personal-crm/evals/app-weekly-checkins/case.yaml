@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-weekly-checkins
+expected_outcome: |
+  Lists at most 3 people who are past their cadence, with Priya first (her meetup talk is
+  within a week), each with one line on why now and a 2-line note draft based only on facts in
+  their file, matched to their channel. Paused Pat and recently-contacted Sam are not on the
+  list. Nothing is sent.
+context:
+  scaffold_script: place-files.sh

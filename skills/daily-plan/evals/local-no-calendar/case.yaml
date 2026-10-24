@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: local-no-calendar
+expected_outcome: |
+  No calendar connector and no commitments given, so it asks for today's fixed commitments
+  (classes, calls, deliveries) before putting times on the plan, or gives an untimed draft
+  clearly marked as waiting on them. Focus picks are corner-lunch tasks (permit overdue,
+  tasting today, price sheet).
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: app-day-with-commitments
+expected_outcome: |
+  1 to 3 focus blocks with times that avoid class and the call, hardest work in the morning,
+  picked from overdue and due-soon tasks and this week's focus; small tasks batched; a 'not
+  today' list; saved to founder/daily/<run date>.md; no due dates changed.
+context:
+  scaffold_script: place-files.sh

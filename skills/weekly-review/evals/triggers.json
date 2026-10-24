@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "friday wrap-up, let's do my weekly review",
+    "how did this week go across all my businesses?",
+    "help me pick what to focus on next week for quizpal and corner lunch",
+    "sunday reset time. I feel scattered across everything",
+    "what slipped this week?",
+    "weekly review pls, quizpal got 30 new signups"
+  ],
+  "should_not_trigger": [
+    "what should I do today?",
+    "add a task to email the print shop",
+    "write a monthly investor update for quizpal",
+    "who should I check in with this week?",
+    "review this landing page copy for me",
+    "what's the ISO week number today?"
+  ]
+}

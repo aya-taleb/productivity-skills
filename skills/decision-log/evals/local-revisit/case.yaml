@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: local-revisit
+expected_outcome: |
+  Lists the Monday deliveries decision as due (revisit date passed); the Stripe and deposit
+  decisions are not due. Adds an Outcome line to the Monday entry with the run date, kept, 38
+  to 41, without editing the original lines.
+context:
+  scaffold_script: place-files.sh

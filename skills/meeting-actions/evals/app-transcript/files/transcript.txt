@@ -1,0 +1,19 @@
+QuizPal sync, transcript (auto-generated, speaker labels may be off)
+Attendees: Nora, Sam Cho (design), Priya Nair (advisor)
+
+[00:00] Nora: Okay, main thing today is the paywall test.
+[00:12] Priya: I'd keep it narrow. New users only, one price.
+[00:20] Nora: Agreed. Let's do four dollars a month for new users. Existing users stay free through January.
+[00:28] Sam: Works for me.
+[00:31] Sam: I can have the paywall screen mockups done by Wednesday.
+[00:40] Nora: Great. I'll write the copy for it and get it to you by Monday.
+[00:52] Priya: Someone should look at what the big flashcard apps charge now, so we're not way off.
+[01:05] Nora: Yeah, we should do that.
+[01:10] Sam: Also the export bug, a teacher emailed about it again.
+[01:15] Nora: I'm fixing that tomorrow, it's the PDFs over forty pages.
+[01:30] Priya: I'll intro you to Marcus at the teaching center, he might want a pilot. I'll send that this week.
+[01:45] Sam: Do we want a yearly plan too? Like thirty dollars?
+[01:50] Nora: Maybe. Let's not decide today.
+[02:05] Priya: Also there's the Milestone grant, the deadline is the fourteenth I think. Or fourth.
+[02:15] Nora: I'll look into it.
+[02:20] Nora: Okay, thanks both.

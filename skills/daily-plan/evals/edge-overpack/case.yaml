@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: edge-overpack
+expected_outcome: |
+  Pushes back kindly: 2 hours fits 1 or 2 focus blocks, not every task. Picks the most
+  important, batches a few small ones if they fit, and says plainly what is not getting done
+  today. No due dates moved without asking.
+context:
+  scaffold_script: place-files.sh

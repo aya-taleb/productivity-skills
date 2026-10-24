@@ -1,0 +1,68 @@
+{
+  "repo": "productivity-skills",
+  "skills": [
+    {
+      "name": "tasks",
+      "status": "reworked",
+      "home": "productivity-skills",
+      "source": "anthropics/knowledge-work-plugins productivity/skills/task-management (Apache 2.0)",
+      "version": "0.1.0"
+    },
+    {
+      "name": "weekly-review",
+      "status": "ours",
+      "home": "productivity-skills",
+      "source": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "personal-crm",
+      "status": "ours",
+      "home": "productivity-skills",
+      "source": "ours (idea thanks to thecraighewitt)",
+      "version": "0.1.0"
+    },
+    {
+      "name": "daily-plan",
+      "status": "ours",
+      "home": "productivity-skills",
+      "source": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "meeting-actions",
+      "status": "ours",
+      "home": "productivity-skills",
+      "source": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "decision-log",
+      "status": "ours",
+      "home": "productivity-skills",
+      "source": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "delegation-brief",
+      "status": "ours",
+      "home": "productivity-skills",
+      "source": "ours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "founder-context",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "source": "aya-taleb/entrepreneur-skills",
+      "version": "0.1.0"
+    },
+    {
+      "name": "humanize",
+      "status": "synced",
+      "home": "entrepreneur-skills",
+      "version": "0.1.0",
+      "source": "ours"
+    }
+  ]
+}

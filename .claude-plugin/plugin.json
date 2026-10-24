@@ -1,0 +1,11 @@
+{
+  "name": "productivity-skills",
+  "description": "Run several small ventures and school at once without dropping things: one task list, one weekly review, people, decisions and hand-offs in plain files.",
+  "version": "0.1.0",
+  "author": {"name": "Aya Taleb", "url": "https://github.com/aya-taleb"},
+  "homepage": "https://github.com/aya-taleb/productivity-skills",
+  "repository": "https://github.com/aya-taleb/productivity-skills",
+  "license": "MIT",
+  "keywords": ["claude-skills", "founder", "productivity", "weekly-review", "tasks", "personal-crm", "planning"],
+  "skills": "./skills/"
+}

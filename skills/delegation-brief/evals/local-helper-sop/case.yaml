@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: local-helper-sop
+expected_outcome: |
+  A short SOP whose steps match the user's process in order, with careful steps marked (order
+  check, signatures), a quality bar, what Yazan can decide and what he texts about, check-ins,
+  and pay as a placeholder unless given. Saved under founder/delegation/.
+context:
+  scaffold_script: place-files.sh

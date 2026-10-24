@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-brain-dump
+expected_outcome: |
+  Each item becomes its own task in founder/tasks.md in the tool's format, tagged #quizpal or
+  #corner-lunch, with absolute due dates only where the user gave one (Thursday, tomorrow).
+  The email item has no due date. Sam's icon set is in Waiting on, dark mode in Someday. The
+  assistant reads back what it added.
+context:
+  scaffold_script: place-files.sh

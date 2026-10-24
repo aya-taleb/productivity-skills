@@ -1,0 +1,5 @@
+{
+  "name": "productivity-skills",
+  "owner": {"name": "Aya Taleb", "url": "https://github.com/aya-taleb"},
+  "plugins": [{"name": "productivity-skills", "source": "./", "description": "Run several small ventures and school at once without dropping things: one task list, one weekly review, people, decisions and hand-offs in plain files."}]
+}

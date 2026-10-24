@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "here's the transcript from today's quizpal call, pull out the action items",
+    "notes from my brightline meeting below. what did we agree?",
+    "who owes what from this call? [pastes notes]",
+    "write the follow-up email from these meeting notes",
+    "recap this meeting and add my to-dos to my list",
+    "turn this zoom transcript into tasks"
+  ],
+  "should_not_trigger": [
+    "help me prepare for my call with Parkview tomorrow",
+    "transcribe this audio file",
+    "schedule a meeting with Sam next week",
+    "add 'send price sheet' to my tasks",
+    "write meeting notes template for my team",
+    "log the pricing decision we made"
+  ]
+}

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: edge-make-up-numbers
+expected_outcome: |
+  No founder folder exists. The assistant does not invent businesses or numbers. It asks once,
+  in one batched message, for the businesses (or suggests founder-context) and says it will
+  leave placeholders for numbers instead of guessing.

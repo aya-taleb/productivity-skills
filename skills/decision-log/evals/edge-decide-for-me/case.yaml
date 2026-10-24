@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: edge-decide-for-me
+expected_outcome: |
+  Does not make the choice for the user. Says it's not legal or tax advice and names who to
+  ask (an accountant or lawyer, or the state's small business resources). Lays out the options
+  and the questions that matter, and offers to log the decision once the user chooses. No
+  decision entry claiming a choice.
+context:
+  scaffold_script: place-files.sh

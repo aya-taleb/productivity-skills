@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: app-transcript
+expected_outcome: |
+  Decision: $4/month for new users, existing free through January (the yearly plan is an open
+  question). Actions with owners: Nora copy by Monday, Nora export bug tomorrow, Sam mockups by
+  Wednesday, Priya intro this week; competitor pricing check has no owner; grant deadline
+  unclear. Nora's actions added to tasks.md tagged #quizpal with dates; Sam's and Priya's as
+  Waiting on. Short follow-up draft. Meeting record saved.
+context:
+  scaffold_script: place-files.sh

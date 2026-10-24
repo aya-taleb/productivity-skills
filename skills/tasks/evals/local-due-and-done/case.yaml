@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: local-due-and-done
+expected_outcome: |
+  Lists only corner-lunch tasks due within 7 days (overdue first), marks the two tasks done in
+  founder/tasks.md (moved to Done with a done date), and leaves all other tasks unchanged.
+context:
+  scaffold_script: place-files.sh

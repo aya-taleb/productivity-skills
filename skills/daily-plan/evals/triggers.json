@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "plan my day. class 10 to 11:30, free otherwise",
+    "what should I work on today?",
+    "I'm overwhelmed, where do I even start today",
+    "I have 3 hours this afternoon, what first?",
+    "morning plan pls",
+    "plan tomorrow for me, it's mostly corner lunch stuff"
+  ],
+  "should_not_trigger": [
+    "do my weekly review",
+    "add 'call the bakery' to my tasks",
+    "make a 30 day marketing plan for corner lunch",
+    "what's on my calendar next week?",
+    "plan a 3 day trip to Lisbon",
+    "turn these meeting notes into action items"
+  ]
+}

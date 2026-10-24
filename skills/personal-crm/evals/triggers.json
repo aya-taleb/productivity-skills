@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "who should I check in with this week?",
+    "I just had coffee with Dana, log it",
+    "add my mentor Priya to my people, we talk about once a month",
+    "who haven't I talked to in forever",
+    "can you just auto-message my linkedin connections I haven't talked to in a while?",
+    "remind me what Omar cares about before I see him tomorrow"
+  ],
+  "should_not_trigger": [
+    "write a cold email to the office manager at Parkview",
+    "find me 20 leads for corner lunch in Bellevue",
+    "draft a linkedin post about our pilot",
+    "send a follow-up to everyone from today's call",
+    "set up HubSpot for my sales pipeline",
+    "what tasks am I waiting on from Sam?"
+  ]
+}

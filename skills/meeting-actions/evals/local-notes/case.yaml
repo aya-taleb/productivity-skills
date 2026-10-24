@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: local-notes
+expected_outcome: |
+  Decisions: 3x a week Tue/Wed/Thu starting week of Nov 2, veg option daily, monthly
+  invoicing. Open: $10.75 for 14+ people (Nora to check margins). Actions: Rob headcount by
+  Friday, Nora price sheet and Nov menu. Numbers exact. Follow-up draft to Lina and Rob. Asks
+  before adding to tasks.md.
+context:
+  scaffold_script: place-files.sh

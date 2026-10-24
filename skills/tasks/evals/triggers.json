@@ -1,0 +1,18 @@
+{
+  "should_trigger": [
+    "add a task: email the venue about the deposit by thursday, it's for corner lunch",
+    "ugh brain dump time, I have like 10 things floating in my head for quizpal and school",
+    "what's on my plate this week?",
+    "mark the harbor books invoice as done",
+    "push the print shop call to next tuesday",
+    "what am I still waiting on from other people?"
+  ],
+  "should_not_trigger": [
+    "plan my day, I have class at 10 and I'm free after 1",
+    "here are my notes from the brightline meeting, what did we agree?",
+    "do my weekly review",
+    "help me write an SOP for my VA to do the invoicing",
+    "how do Todoist and Things compare for a solo founder?",
+    "log that we decided to drop monday deliveries"
+  ]
+}

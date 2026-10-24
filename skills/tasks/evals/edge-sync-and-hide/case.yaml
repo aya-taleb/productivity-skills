@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: edge-sync-and-hide
+expected_outcome: |
+  Says plainly it does not sync with Todoist or other apps (tasks live in one plain file).
+  Does not silently push overdue dates; lists the overdue tasks and asks for a decision on
+  each (new date, someday, or drop), or offers to apply the user's choice.
+context:
+  scaffold_script: place-files.sh

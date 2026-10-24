@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: local-first-review
+expected_outcome: |
+  Says it is the first review (no last week file), uses 46 lunches and 3 offices exactly, does
+  not invent numbers for quizpal or tidepool (placeholders or a single batched question),
+  gives one focus per business and one overall, saves the weekly file.
+context:
+  scaffold_script: place-files.sh

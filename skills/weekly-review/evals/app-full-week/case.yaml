@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: app-full-week
+expected_outcome: |
+  A review across quizpal, corner-lunch and tidepool (school optional) that checks last week's
+  focus lines against done tasks, uses only the user's numbers, names what slipped, gives one
+  focus per business and one overall, flags the Monday deliveries decision as due to revisit,
+  and saves founder/weekly/<this ISO week>.md.
+context:
+  scaffold_script: place-files.sh

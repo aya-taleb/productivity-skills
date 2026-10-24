@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: local-log-and-add
+expected_outcome: |
+  Omar's file gets a log line dated the run date, last contact updated, and his November stall
+  noted under coming up or notes. A new founder/people/lina-ortiz.md exists with how they know
+  each other, businesses corner-lunch, cadence quarterly, and last contact on the most recent
+  Tuesday. Nothing invented about Lina.
+context:
+  scaffold_script: place-files.sh
